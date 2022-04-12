@@ -1,0 +1,16 @@
+# IMPLEMENT BUILT-IN FUNCTIONS IN R
+
+cat("Innovation and", " you Philips")
+max(23,55,72,64,38)
+min(23,55,72,64,38)
+sum(23,62)
+sin(pi/3)
+cos(pi/3)
+tan(pi/3)
+floor(26.7)
+ceiling(-26.7)
+sqrt(25)
+abs(-23.2)
+log(10)
+exp(10)
+substr("hello world", 4, 7)
