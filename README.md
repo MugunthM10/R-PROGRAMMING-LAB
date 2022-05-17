@@ -10,7 +10,7 @@ Experiment-2 : Using Vectors and Matrices
 
 Experiment-3 : Using Data Frames
 
-Experiment-4 : Uisng Lists
+Experiment-4 : Using Lists
 
 Experiment-5 : Using Looping constructs
 
